@@ -214,42 +214,6 @@ DL-Audio-Stego/
 ```
 
 ---
-
-## Contributing
-
-Contributions are highly welcome, Mr. Danyal! To contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-
-```bash
-git checkout -b feature/YourFeature
-```
-
-3. Commit your changes:
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push the branch:
-
-```bash
-git push origin feature/YourFeature
-```
-
-5. Open a pull request with detailed descriptions of your changes.
-
-Please ensure that your contributions adhere to the project’s coding standards and that all documentation is kept up-to-date.
-
----
-
-## License
-
-This project is licensed under the MIT License. For full details, please refer to the [LICENSE](LICENSE) file.
-
----
-
 ## Acknowledgements
 
 We extend our sincere gratitude to the open-source community and especially to the maintainers of [arnoweng/PyTorch-Deep-Image-Steganography](https://github.com/arnoweng/PyTorch-Deep-Image-Steganography) for their pioneering work. Their innovative approach to deep learning-based steganography has been instrumental in the development of this audio steganography system.
