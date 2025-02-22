@@ -98,11 +98,7 @@ In our adaptation, we extend this deep learning framework to handle audio data. 
 
 ### Step 1: Install PyTorch
 
-Visit the official [PyTorch website](https://pytorch.org/get-started/locally/) to choose the version that matches your hardware. For example, for CUDA 11.8:
-
-```bash
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-```
+Visit the official [PyTorch website](https://pytorch.org/get-started/locally/) to choose the version that matches your hardware. 
 
 > **Important:** Always verify compatibility on the official site before installation.
 
@@ -156,7 +152,7 @@ cd DL-Audio-Stego
 ```
 ### Download Pre-trained Checkpoints
 
-Download the zipped checkpoint files from [google.com](google.com) and extract them into the `checkPoint` folder.
+Download the zipped checkpoint files from [here](https://drive.google.com/file/d/1o2iZna-74TMrEHmuEh0oBJqKgCe9LEhQ/view?usp=sharing) and extract them into the `checkPoint` folder.
 
 ### Running the Application
 
